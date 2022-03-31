@@ -13,9 +13,7 @@ Running the Code
    [ login("Enter your Login URL link here", "username", "Enter your Username here", "password", 'Enter your Password here', "loginbutton id") ]
 6. Now go to your login page and inspect the Username, Password and Login button.
 7. Find for your Username, Password and Login button id.
-   Note: Generally the id of Username and Password are the lower case [username;password]. 
-	   It is difficulr to find the id of login button as every website has diffrent nome of login ( sign in, submit, enter, etc) 
-	   and the id may vary in every website as some website change there login button id every time you refresh them.
+   Note: The id of Username and Password are the lower case [username;password].It is difficulr to find the id of login button as every website has diffrent    name of login ( sign in, submit, enter, etc) and the id may vary in every website as some website change there login button id every time you refresh them. Generally the login button id are loginbutton , login , submit, etc.
 8. Find the id's and put them in line 13 of the code and dont forget to add the URL.
 9. Run the code
 
