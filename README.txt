@@ -25,3 +25,12 @@ Creating the exe file
 3. Your exe file is ready
 4. Check for your exe file in dist folder in same directory where the python file is saved.
 5. Run the exe file.
+
+Autostart the exe
+
+1. Press windows key + r
+2. Copy the run command Shell:common startup
+3. It will reach C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+4. Create the shortcut of the program you want to run in startup.
+5. Copy the shortcut to the startup folder.
+6. Restart the computer.
