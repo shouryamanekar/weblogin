@@ -19,7 +19,7 @@ Running the Code
 
 Creating the exe file
 
-1. Install pyinstaller.
+1. Install pyinstaller. [pip install pyinstaller]
 2. Write the following code in your console [ pyinstaller --onefile XYZ.py ]
    Note: put your filename instead of XYZ
 3. Your exe file is ready
